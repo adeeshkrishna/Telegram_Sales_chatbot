@@ -80,9 +80,9 @@ The bot understands natural language commands such as:
 ## Project Structure
 
 ```
-telegram-sales-chatbot/
-├── Telegram-Sales-chatbot.py                 # Main bot implementation
-└── README.md             # This file
+telegram_sales_chatbot/
+├── Telegram_Sales_chatbot.py                 # Main bot implementation
+└── README.md                                 # This file
 
 ```
 
