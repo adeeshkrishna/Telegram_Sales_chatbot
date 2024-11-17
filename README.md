@@ -81,7 +81,7 @@ The bot understands natural language commands such as:
 
 ```
 telegram-sales-chatbot/
-├── bot.py                 # Main bot implementation
+├── Telegram-Sales-chatbot.py                 # Main bot implementation
 └── README.md             # This file
 
 ```
