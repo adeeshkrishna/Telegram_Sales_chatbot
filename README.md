@@ -22,7 +22,7 @@ A Telegram-based chatbot that simulates a virtual store experience, allowing use
 1. Clone this repository:
 ```bash
 git clone <repository-url>
-cd telegram-sales-chatbot
+cd Telegram-Sales-chatbot
 ```
 
 2. Install required packages:
